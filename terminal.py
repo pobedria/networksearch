@@ -2,7 +2,7 @@ import socket
 import socketserver
 
 
-PORT = 9998
+PORT = 9997
 
 
 class EchoServer(socketserver.DatagramRequestHandler):

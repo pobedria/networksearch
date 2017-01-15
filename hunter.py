@@ -6,7 +6,7 @@ import time
 import threading
 
 
-PORT = 9998
+PORT = 9997
 
 scales_catalogue = set()
 
